@@ -1,0 +1,6 @@
+---
+- name: File create
+  become: true
+  my_own_module:
+  path: {{ path }}
+  content: {{ content }}
