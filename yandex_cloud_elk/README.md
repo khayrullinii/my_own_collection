@@ -1,3 +1,16 @@
 # Ansible Collection - my_own_namespace.yandex_cloud_elk
 
-Documentation for the collection.
+my_own_collection with role file_create.
+
+This Collection create file.
+
+default var:
+
+  - path 
+  - content
+
+
+Author Information
+------------------
+
+Ilnur Khayrullin
